@@ -43,7 +43,7 @@
 
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">© 2021 Copyright:
-    <a href="https://github.com/Dora-Sellami/Gestion-Ecole"> Dorsaf Sellami</a>
+    <a href="https://github.com/Dora-Sellami/GestionEcole"> Dorsaf Sellami</a>
   </div>
     <!-- Copyright -->
   <hr>
